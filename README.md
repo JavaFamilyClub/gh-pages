@@ -15,7 +15,7 @@
 <img src="asset/img/wechatPay.jpg" width="200" align="right"/>
 
 ## 社区
-> 用户和开发团队通常在 [Gitter聊天室](https://gitter.im/javafamilychat/jfoa)中。
+> 用户和开发团队通常在 [Gitter聊天室](https://gitter.im/javafamilychat/JavaFamilyLibrary)中。
 
 ## 关于我们
 > JavaFamily 是一个专注于 Java 进阶的技术团队, 涵盖了目前大部分主流技术的实战与剖析, 
