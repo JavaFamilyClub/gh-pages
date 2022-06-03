@@ -4,6 +4,7 @@
 
 
 ## 目录
+* 父类版本控制 javafamily-parent
 * 通知管理器 [notification-manager](https://github.com/JavaFamilyClub/notification-manager)
 
 ## Donate
@@ -12,7 +13,8 @@
 > I am happy if you can help me buy a cup of coffee. :heart:
 
 <img src="asset/img/aliPay.jpg" width="200"/>
-<img src="asset/img/wechatPay.jpg" width="200" align="right"/>
+
+<img src="asset/img/wechatPay.jpg" width="200"/>
 
 ## 社区
 > 用户和开发团队通常在 [Gitter聊天室](https://gitter.im/javafamilychat/JavaFamilyLibrary)中。
